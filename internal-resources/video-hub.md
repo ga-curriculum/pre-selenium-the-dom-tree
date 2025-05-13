@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Pre-Selenium: The DOM Tree</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

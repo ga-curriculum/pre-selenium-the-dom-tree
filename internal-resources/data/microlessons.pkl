@@ -2,30 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+exploringDomNestingWithDevtools = new Template.Microlesson {
+  friendlyName = "Exploring DOM Nesting with DevTools"
+  dirName = "exploring-dom-nesting-with-devtools"
   type = "Content"
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+domRelationshipsAndSeleniumSelectors = new Template.Microlesson {
+  friendlyName = "DOM Relationships and Selenium Selectors"
+  dirName = "dom-relationships-and-selenium-selectors"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+handlingDeeplyNestedStructures = new Template.Microlesson {
+  friendlyName = "Handling Deeply Nested Structures"
+  dirName = "handling-deeply-nested-structures"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+mappingVisualLayoutToDomStructure = new Template.Microlesson {
+  friendlyName = "Mapping Visual Layout to DOM Structure"
+  dirName = "mapping-visual-layout-to-dom-structure"
   type = "Content"
   videoUrl = ""
 }
