@@ -30,8 +30,8 @@ This module reinforces key DOM concepts specifically through the lens of automat
 
 ### Course landing pages
 
-- [PTR - Python Testing & Reliability](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/pre-selenium-the-dom-tree/canvas-landing-pages/ptr.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/pre-selenium-the-dom-tree/canvas-landing-pages/fallback.html)
+- [PTR - Python Testing & Reliability](https://ga-curriculum.github.io/pre-selenium-the-dom-tree/canvas-landing-pages/ptr.html)
+- [Fallback](https://ga-curriculum.github.io/pre-selenium-the-dom-tree/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -43,4 +43,4 @@ This module reinforces key DOM concepts specifically through the lens of automat
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
